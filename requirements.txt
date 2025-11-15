@@ -4,3 +4,4 @@ pytensor
 matplotlib
 graphviz
 scikit-learn
+ipywidgets

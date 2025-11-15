@@ -209,3 +209,8 @@ __marimo__/
 # Custom
 
 data/
+output/
+
+*.amltmp
+*.amlignore
+.ipynb_aml_checkpoints/
