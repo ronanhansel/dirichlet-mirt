@@ -3,3 +3,4 @@ arviz
 pytensor
 matplotlib
 graphviz
+scikit-learn
